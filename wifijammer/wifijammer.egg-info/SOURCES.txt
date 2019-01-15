@@ -1,0 +1,8 @@
+README.md
+setup.py
+wifijammer
+wifijammer.egg-info/PKG-INFO
+wifijammer.egg-info/SOURCES.txt
+wifijammer.egg-info/dependency_links.txt
+wifijammer.egg-info/requires.txt
+wifijammer.egg-info/top_level.txt

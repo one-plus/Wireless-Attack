@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: wifijammer
+Version: 0.1
+Summary: Continuously jam all wifi clients and access points within range.
+Home-page: https://github.com/DanMcInerney/wifijammer
+Author: Dan McInerney
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: Continuously jam all wifi clients and access points within range.
+Keywords: WiFi 802.11 jammer deauth
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
